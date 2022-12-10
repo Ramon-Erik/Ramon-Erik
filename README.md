@@ -1,8 +1,8 @@
 ### Olá! Eu sou é Ramon Erik 🤙
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé da programação.
+💙 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-- Atualmente estudando HTML5 e CSS3
+- 🤓 Atualmente estudando HTML5 e CSS3
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramon-Erik&show_icons=true&theme=radical"/>
@@ -10,7 +10,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé da 
 </div>
 
 ## 
-### Contate-me
+### 🔗 Contate-me
 <div>
 <a src="https://www.instagram.com/29erik_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]"></a>
 </div>

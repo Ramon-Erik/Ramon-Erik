@@ -5,8 +5,8 @@
 - 🤓 Atualmente estudando HTML5 e CSS3
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramon-Erik&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>
+<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramon-Erik&show_icons=true&theme=radical"/>
+<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## 

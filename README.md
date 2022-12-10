@@ -12,7 +12,7 @@
 ## 
 ### 🔗 Contate-me
 <div>
-<a src="https://www.instagram.com/29erik_/">img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]"></a>
+<a href="https://www.instagram.com/29erik_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"></a>
 </div>
 
 ## 

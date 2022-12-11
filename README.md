@@ -1,4 +1,4 @@
-### Olá! Eu sou é Ramon Erik 🤙
+### Olá! Eu sou Ramon Erik 🤙
 
 💙 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 

@@ -6,7 +6,7 @@
 
 <div>
 <img width="48%" height="185em" src="https://github-readme-stats.vercel.app/api?username=Ramon-Erik&show_icons=true&theme=radical"/>
-<img width="50%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>
+<img width="49%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## 

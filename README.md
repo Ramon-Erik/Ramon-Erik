@@ -6,11 +6,11 @@
 
 <div>
 
-<img width="50%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>
+<img width="100%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## 
-### 🔗 Contate-me
+### 🌎 Contate-me
 <div>
 <a target="_blank" href="https://www.instagram.com/29erik_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>

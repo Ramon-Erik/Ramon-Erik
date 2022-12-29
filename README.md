@@ -5,7 +5,6 @@
 - 🤓 Atualmente estudando HTML5 e CSS3
 
 <div>
-
 <img width="100%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
@@ -27,4 +26,5 @@
 ## 
 ### 📚 Meus projetos preferidos
 
+- [Cordel Moderno](https://ramon-erik.github.io/projeto-cordel/index.html)
 - [Landing page com Ballerini](https://ramon-erik.github.io/projeto-landing-page/)

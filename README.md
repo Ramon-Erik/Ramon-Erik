@@ -2,7 +2,7 @@
 
 💙 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação e por um bom café 😁.
 
-- 🤓 Atualmente estudando HTML5, CSS3 e JS
+- Atualmente estudando HTML5, CSS3 e JS
 
 <div>
     <img width="100%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-erik&layout=compact&langs_count=16&theme=dracula"/>

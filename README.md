@@ -21,4 +21,4 @@
 
 📧 Email: ramonerik29a@gmail.com
 
-🌐 Meu [portfolio](https://portfolio-ramon-erik.vercel.app/)
+🌐 Meu <a href="https://portfolio-ramon-erik.vercel.app/" target="_blank">´prtfolio</a>

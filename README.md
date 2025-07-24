@@ -1,14 +1,14 @@
 ### Olá! Eu sou Ramon Erik 🤙
 
-💙 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação e por um bom café 😁.
+💙 Técnico em informática e graduando em Ciência da Computação, apaixonado por tecnologia.
 
 ## 
 ### 🖥️ Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block;"> <br/>
-    <img align="center" alt="logo-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="logo-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="logo-css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="logo-ts" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img align="center" alt="logo-angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img align="center" alt="logo-scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div> <br/>
 
 <div>
